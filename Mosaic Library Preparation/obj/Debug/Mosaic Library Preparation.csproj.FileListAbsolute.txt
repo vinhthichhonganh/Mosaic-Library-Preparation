@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\Mosaic Library Preparation\Mosaic Library Preparation\bin\Debug\Mosaic Library Preparation.exe.config
+C:\Users\pc\source\repos\Mosaic Library Preparation\Mosaic Library Preparation\bin\Debug\Mosaic Library Preparation.exe
+C:\Users\pc\source\repos\Mosaic Library Preparation\Mosaic Library Preparation\bin\Debug\Mosaic Library Preparation.pdb
+C:\Users\pc\source\repos\Mosaic Library Preparation\Mosaic Library Preparation\obj\Debug\Mosaic Library Preparation.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Mosaic Library Preparation\Mosaic Library Preparation\obj\Debug\MosaicLibraryPreparation.Form1.resources
+C:\Users\pc\source\repos\Mosaic Library Preparation\Mosaic Library Preparation\obj\Debug\MosaicLibraryPreparation.Properties.Resources.resources
+C:\Users\pc\source\repos\Mosaic Library Preparation\Mosaic Library Preparation\obj\Debug\Mosaic Library Preparation.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Mosaic Library Preparation\Mosaic Library Preparation\obj\Debug\Mosaic Library Preparation.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Mosaic Library Preparation\Mosaic Library Preparation\obj\Debug\Mosaic Library Preparation.exe
+C:\Users\pc\source\repos\Mosaic Library Preparation\Mosaic Library Preparation\obj\Debug\Mosaic Library Preparation.pdb
